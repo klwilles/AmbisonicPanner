@@ -7,6 +7,7 @@ The Ambisonic Panner is for panning sounds across 8 speakers. We used this custo
 
 Looking at the wall from the front, you have the following speaker placement (X): 
 
+```
 -------X------------X------------X------------X-------
 |                                                    |
 |                                                    |
@@ -16,6 +17,7 @@ Looking at the wall from the front, you have the following speaker placement (X)
 |                                                    |
 |                                                    |
 -------X------------X------------X------------X-------
+```
 
 We used m-audio's Fast Track Ultra 8R sound interface (http://www.m-audio.com/products/en_us/FastTrackUltra8R.html).
 
