@@ -1,0 +1,1 @@
+You will need to download verafont if you want to use it with the minimal gui. 

@@ -1,0 +1,1 @@
+OF FAT ships with ofxXmlSettings, see http://www.openframeworks.cc/addons. Make sure to include this. 

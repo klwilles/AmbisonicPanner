@@ -1,0 +1,1 @@
+Download Grimus's Sampler here: http://www.openframeworks.cc/forum/viewtopic.php?f=10&t=3502 . 
